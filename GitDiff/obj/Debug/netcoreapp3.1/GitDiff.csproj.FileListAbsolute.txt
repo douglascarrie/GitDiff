@@ -1,0 +1,11 @@
+C:\Users\Doug\Desktop\finalOOP\GitDiff\GitDiff\bin\Debug\netcoreapp3.1\GitDiff.exe
+C:\Users\Doug\Desktop\finalOOP\GitDiff\GitDiff\bin\Debug\netcoreapp3.1\GitDiff.deps.json
+C:\Users\Doug\Desktop\finalOOP\GitDiff\GitDiff\bin\Debug\netcoreapp3.1\GitDiff.runtimeconfig.json
+C:\Users\Doug\Desktop\finalOOP\GitDiff\GitDiff\bin\Debug\netcoreapp3.1\GitDiff.runtimeconfig.dev.json
+C:\Users\Doug\Desktop\finalOOP\GitDiff\GitDiff\bin\Debug\netcoreapp3.1\GitDiff.dll
+C:\Users\Doug\Desktop\finalOOP\GitDiff\GitDiff\bin\Debug\netcoreapp3.1\GitDiff.pdb
+C:\Users\Doug\Desktop\finalOOP\GitDiff\GitDiff\obj\Debug\netcoreapp3.1\GitDiff.csprojAssemblyReference.cache
+C:\Users\Doug\Desktop\finalOOP\GitDiff\GitDiff\obj\Debug\netcoreapp3.1\GitDiff.AssemblyInfoInputs.cache
+C:\Users\Doug\Desktop\finalOOP\GitDiff\GitDiff\obj\Debug\netcoreapp3.1\GitDiff.AssemblyInfo.cs
+C:\Users\Doug\Desktop\finalOOP\GitDiff\GitDiff\obj\Debug\netcoreapp3.1\GitDiff.dll
+C:\Users\Doug\Desktop\finalOOP\GitDiff\GitDiff\obj\Debug\netcoreapp3.1\GitDiff.pdb
